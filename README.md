@@ -76,10 +76,7 @@ The model includes:
 
 ---
 
-## 📊 Sample Output
 
-
----
 
 ## 🧠 Technologies Used
 
@@ -116,4 +113,4 @@ Riddhi Tanwani
 Shriya Bajpai
 Contributions Welcome!!
 
-##If you find this project useful, please star the repository and share it!
+If you find this project useful, please star the repository and share it!
